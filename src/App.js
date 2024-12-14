@@ -10,7 +10,7 @@ import { ThemeProvider } from "./theme-context";
 function App() {
   return (
     <ThemeProvider>
-      <BrowserRouter basename="/Dark-Light-Mode">
+      <BrowserRouter basename="/Dark-Light--Mode">
          <Navbar/>
          {/* routes */}
 
